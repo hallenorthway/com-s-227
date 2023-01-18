@@ -1,0 +1,53 @@
+x-ray
+hello, world!
+nobody
+conditioner
+toilet
+blouse
+charger
+lace
+lamp
+candy wrapper
+sponge
+CD
+paper
+rubber band
+nail file
+fridge
+pillow
+pants
+clothes
+shawl
+controller
+perfume
+slipper
+box
+washing machine
+desk
+computer
+food
+eye liner
+bow
+apple
+credit card
+video games
+mirror
+zipper
+flowers
+chocolate
+thread
+puddle
+model car
+street lights
+hanger
+chair
+paint brush
+television
+outlet
+air freshener
+couch
+white out
+cup
+bag
+door
+drill press
